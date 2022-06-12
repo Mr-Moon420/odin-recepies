@@ -1,0 +1,30 @@
+p, h1, h2, li, a{
+    font-family: hero, sans-serif;
+    color: white;
+    background-color: #303030;
+}
+
+a, li{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+    padding: 5px;
+}
+
+.foodImage{
+    height: 400px;
+    width: 400px;
+}
+
+.foodImage.lemon{
+    height: 450px;
+    width: 300px;
+}
+
+.foodImage.bacon{
+    height: 400px;
+    width: 600px;
+}
